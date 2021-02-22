@@ -766,7 +766,7 @@ And this is feature of this Bot!
 
 *┏━━━━━━━━━━━━━━━━━┓*
 
-*┃➥Owner BOT  : NurulCans*
+*┃➥Owner BOT  : Nurul*
 
 *┃➥WA Version : ${waver}*
 
